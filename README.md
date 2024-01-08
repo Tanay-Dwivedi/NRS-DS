@@ -1,2 +1,3 @@
 # NRS-DS
-A News Recommendation System using Data Source (NRS-DS) from Microsoft
+
+A News Recommendation System using Python and  Data Source (NRS-DS) from Microsoft.
